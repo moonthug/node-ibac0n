@@ -1,8 +1,7 @@
 # node-iBac0n
 
-A simple command line app for creating an iBeacon on a Mac.
+A NodeJS wrapper for [iBacon](https://github.com/moonthug/ibac0n).
 
-Based heavily on [BeaconOSX](https://github.com/mttrb/BeaconOSX).
 
 ### Version
 0.0.1
