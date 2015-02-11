@@ -10,7 +10,7 @@ A (currently) OSX only module that allows developers to create an iBeacon using 
 ### Installation
 
 ```sh
-$ npm install https://github.com/moonthug/node-ibac0n/tarball/master
+$ npm install ibac0n
 ```
 
 ### Examples
