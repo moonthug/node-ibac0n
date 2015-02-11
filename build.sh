@@ -14,8 +14,6 @@ cd $INSTALL_DIR
 echo "Building project..."
 xcodebuild
 
-ls -lsa
-
 cp "./build/Release/ibac0n" ../ibac0n
 
 echo "Build task complete!"
