@@ -15,6 +15,6 @@ echo "Building project..."
 xcodebuild
 
 
-cp "$INSTALL_DIR/build/Release/ibac0n" ./ibac0n
+cp "./build/Release/ibac0n" ./ibac0n
 
 echo "Build task complete!"
