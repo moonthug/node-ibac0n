@@ -18,9 +18,9 @@ $ npm install https://github.com/moonthug/node-ibac0n/tarball/master
 
 var ibac0n = require('ibac0n');
 
-ibacon.start('05b56fa9-b4b8-46f8-ae82-83587b5cc348', 1, 1, -60);
+ibac0n.start('05b56fa9-b4b8-46f8-ae82-83587b5cc348', 1, 1, -60);
 
-ibacon.on('close', function() {
+ibac0n.on('close', function() {
     console.log('ibac0n process ended');
 });
 
