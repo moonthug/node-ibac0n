@@ -1,0 +1,24 @@
+{
+  "name": "node-ibac0n",
+  "version": "0.0.1",
+  "description": "A NodeJS wrapper for ibac0n",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "sh build.sh"
+  },
+  "keywords": [
+    "iBeacon",
+    "OSX"
+  ],
+  "author": "m00nthug <stuff@m00nplug.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moonthug/node-ibac0n.git"
+  },
+  "bugs": {
+    "url": "https://github.com/moonthug/node-ibac0n/issues"
+  },
+  "homepage": "https://github.com/moonthug/node-ibac0n"
+}

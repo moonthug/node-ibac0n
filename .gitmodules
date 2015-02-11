@@ -1,0 +1,3 @@
+[submodule "bin/ibac0n-src"]
+	path = bin/ibac0n-src
+	url = https://github.com/moonthug/ibac0n.git
