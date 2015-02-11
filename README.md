@@ -2,6 +2,7 @@
 
 A NodeJS wrapper for [iBacon](https://github.com/moonthug/ibac0n).
 
+A (currently) OSX only module that allows developers to create an iBeacon using NodeJS
 
 ### Version
 0.0.1
