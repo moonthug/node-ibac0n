@@ -1,6 +1,6 @@
 {
   "name": "ibac0n",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A NodeJS wrapper for ibac0n",
   "main": "index.js",
   "scripts": {
