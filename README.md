@@ -32,7 +32,7 @@ ibac0n.on('close', function() {
 ## Stop the iBeacon
 
 ```javascript
-ibac0n.stop('05b56fa9-b4b8-46f8-ae82-83587b5cc348', 1, 1, -60);
+ibac0n.stop();
 ```
 
 ### Development
